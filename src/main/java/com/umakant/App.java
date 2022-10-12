@@ -14,4 +14,3 @@ public class App
         System.out.flush();
     }
 }
-o
